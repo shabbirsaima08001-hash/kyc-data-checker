@@ -1,0 +1,41 @@
+customer_id,status,problems
+C0001,PASS,
+C0002,PASS,
+C0003,FAIL,ID document is expired
+C0004,FAIL,ID document is expired; Wrong email format
+C0005,PASS,
+C0006,PASS,
+C0007,PASS,
+C0008,FAIL,Missing full_name
+C0009,FAIL,ID document is expired
+C0010,PASS,
+C0011,PASS,
+C0012,FAIL,Customer is under 18; ID document is expired
+C0013,PASS,
+C0014,PASS,
+C0015,PASS,
+C0016,FAIL,ID document is expired; Wrong ID number format
+C0017,PASS,
+C0018,PASS,
+C0019,PASS,
+C0020,PASS,
+C0021,FAIL,Missing country
+C0022,PASS,
+C0023,PASS,
+C0024,FAIL,ID document is expired
+C0025,PASS,
+C0026,FAIL,Invalid date of birth format
+C0027,PASS,
+C0028,FAIL,ID document is expired
+C0029,FAIL,ID document is expired
+C0030,PASS,
+C0031,FAIL,Missing email
+C0032,FAIL,ID document is expired
+C0033,PASS,
+C0034,FAIL,Missing id_expiry_date
+C0035,PASS,
+C0036,PASS,
+C0037,PASS,
+C0038,FAIL,ID document is expired
+C0039,PASS,
+C0040,FAIL,ID document is expired
